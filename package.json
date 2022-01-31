@@ -12,6 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "chalk": "^2.4.1",
+    "fs": "^0.0.1-security",
     "inquirer": "^6.2.1"
   },
   "devDependencies": {
