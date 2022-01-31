@@ -1,4 +1,4 @@
-const Letter = require('../lib/Letter');
+const Letter = require('../lib/Employee');
 
 describe('Visibility', () => {
   it('Characters that are digits or letters should not be visible', () => {
